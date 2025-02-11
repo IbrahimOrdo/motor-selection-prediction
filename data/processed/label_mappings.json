@@ -1,0 +1,16 @@
+{
+    "Gender": {
+        "0": "Man",
+        "1": "Woman"
+    },
+    "MaritalStatus": {
+        "0": "Married",
+        "1": "Single"
+    },
+    "Preferred Motorcycle": {
+        "0": "BMW",
+        "1": "Honda",
+        "2": "Kawasaki",
+        "3": "Yamaha"
+    }
+}
